@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 adventuring text! -- This is the change I made on my computer locally
+=======
+adventuring text! Local change to adventure text
+>>>>>>> f566b24245efeed4de7d0ac35dfe20b741d77580
